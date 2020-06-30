@@ -76,26 +76,37 @@
 .bgimg-style{
 	background-image: url(images/bgimg.JFIF);
 }
+
+
+
+/*footer*/
 .categori-color{
 	padding-top: 2%;
 	margin-left: 5% !important;
 	color: #fff;
 }
+/*
 .footer1{
 	font-family: "Work sans-serif";
 	color: #fff;
 	margin: 10px;
     
-}
-.bgfooter-style{
+}*/
+/*.bgfooter-style{
 	background-color: black; opacity: 0.8;
 	padding-bottom: 4%;
-}
+}*/
 /*.footer-icon{
 	margin-left: 5%;
 
 }
 */
-
+.site-footer{
+	background-color: black; opacity: 0.8;
+	padding-bottom: 4%;
+	color: #fff;
+	
+	padding-top: 30px;
+}
 	
 
