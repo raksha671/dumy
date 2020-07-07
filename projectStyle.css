@@ -21,6 +21,7 @@
 .heading-style{
 	text-align: center;
 	padding-top: 20px;
+	font-style: ᑕOOᒪᖴOᑎT.OᖇG;
 }
 .img-style{
 	margin-left: 0px !important;
@@ -59,6 +60,11 @@
 
 	margin-top: 10px;
 }
+.card-hover:hover{
+	padding: 1px;
+      
+}
+
 
 .card-style2{
     width: 88%;
