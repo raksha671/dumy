@@ -135,17 +135,6 @@
 .text-style{
 	font-style: 
 }
-/*.col-sm-6 {
-    -ms-flex: 0 0 50%;
-    flex: 0 0 50%;
-    flex: 0 0 50% !important;
-    max-width: 50%;
-    max-width: 50% !important;
-}*/
 
 
-.col-sm-4 {
-    -ms-flex: 0 0 33.333333% !important;
-    flex: 0 0 33.333333% !important;
-    max-width: 33.333333% !important;
-}
+
